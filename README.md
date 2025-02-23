@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+This is my main github account
+Other accounts I've used in the past: 
+
+ - [gmarti28](https://github.com/gmarti28)
+ - [gastonmartin77](https://github.com/gastonmartin77)
+
+
 I'm a backend software developer fluent in Java, Kotlin and Scala. 
 During the last year I spent some time learning Typescript and React allowing me to contribute features to a web application.
 

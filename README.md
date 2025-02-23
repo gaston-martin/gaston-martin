@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my main github account
+This is my main github account.
+
 Other accounts I've used in the past: 
 
  - [gmarti28](https://github.com/gmarti28)

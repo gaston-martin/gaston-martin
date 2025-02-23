@@ -24,7 +24,7 @@ Other accounts I've used in the past:
 
 
 I'm a backend software developer fluent in Java, Kotlin and Scala. 
-During the last year I spent some time learning Typescript and React allowing me to contribute features to a web application.
+During the last year I've spent some time learning Typescript and React allowing me to contribute features to a web application.
 
 🔭 I've worked as a software developer for these companies:
 

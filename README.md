@@ -19,8 +19,9 @@ This is my main github account.
 
 Other accounts I've used in the past: 
 
- - [gmarti28](https://github.com/gmarti28)
- - [gastonmartin77](https://github.com/gastonmartin77)
+ - [Github: gmarti28](https://github.com/gmarti28)
+ - [Github: gastonmartin77](https://github.com/gastonmartin77) Working for Mercado Libre
+ - [Gitlab: gaston.martin](https://gitlab.com/users/gaston.martin) Working for ank
 
 
 I'm a backend software developer fluent in Java, Kotlin and Scala. 

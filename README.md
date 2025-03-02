@@ -19,7 +19,7 @@ This is my main github account.
 
 Other accounts I've used in the past: 
 
- - [Github: gmarti28](https://github.com/gmarti28)
+ - [Github: gmarti28](https://github.com/gmarti28) Working for Wenance
  - [Github: gastonmartin77](https://github.com/gastonmartin77) Working for Mercado Libre
  - [Gitlab: gaston.martin](https://gitlab.com/users/gaston.martin) Working for ank
 
@@ -29,9 +29,9 @@ During the last year I've spent some time learning Typescript and React allowing
 
 🔭 I've worked as a software developer for these companies:
 
-- Mercado Libre / Mercado Pago (Marketplace / Fintech) Ticker: MELI
-- ank (Fintech) 
 - Despegar (Online travel agency) Ticker: DESP
+- ank (Fintech) 
+- Mercado Libre / Mercado Pago (Marketplace / Fintech) Ticker: MELI
 - Wenance (Fintech) 
 
 🗓️ Before that I've worked in:
